@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **agus.hernandez9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fIexbXwnpjaoiMyje-Fz0piVoF6PCSk3/view?usp=share_link](https://drive.google.com/file/d/1fIexbXwnpjaoiMyje-Fz0piVoF6PCSk3/view?usp=share_link)
+- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1fIexbXwnpjaoiMyje-Fz0piVoF6PCSk3/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
