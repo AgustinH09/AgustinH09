@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Neocoast](https://www.neocoast.com/)
 
-- 💬 Ask me about **ruby, RoR**
+- 💬 Ask me about **ruby, RoR, React, Typescript, Javascript**
 
 - 📫 How to reach me **agus.hernandez9@gmail.com**
 
-- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1fIexbXwnpjaoiMyje-Fz0piVoF6PCSk3/view?usp=share_link)
+- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/15aq6bmkNa6K_ejbvTQfFl6Z202fMtu5n/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
