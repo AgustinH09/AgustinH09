@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Neocoast](https://www.neocoast.com/)
 
-- 💬 Ask me about **ruby, RoR, React, Typescript, Javascript**
+- 💬 Ask me about **ruby, RoR, React, Typescript, Javascript, Nodejs, SQL**
 
 - 📫 How to reach me **agus.hernandez9@gmail.com**
 
