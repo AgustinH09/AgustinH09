@@ -18,7 +18,7 @@
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agustinh09&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="agustinh09" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AgustinH09&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="AgustinH09" />
 </p>
 
 ---
