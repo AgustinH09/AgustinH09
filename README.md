@@ -17,9 +17,43 @@
 }
 ```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AgustinH09&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="AgustinH09" />
-</p>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="70%" align="center" valign="middle">
+<pre>
+               ))))))))))))
+                       ))))))))))))))
+
+                                          ^^^^^
+      ))))))))))))                       ;"/"\";     ))))))))
+        ))))))))))))))))))              / /   ; \          )))))))))))
+                                       ; /\   \" :       )))))))))
+                                      / ; ; " ;  \\
+            )))))))))))))))))))))))  ;  / \   \  ; \
+                 )))))))))))))))))))/   ; /      \  \
+                           ))))))));   ;          ;  \
+                                  /    ;       \      \
+                                 /   ;         ;       \
+                               -              /         -
+                             /                            \
+                           -ii                              `--
+                         /iiiii                                 \
+                      ,-iiii                                     ` `-
+                 __ /iiiiiiiiiii                [Mt.Fuji on fine day]   
+         ______ 'iiiiiiiiiiiiiiiiiii
+</pre>
+    </td>
+    <td width="30%" align="left" valign="middle">
+<pre>
+[ KAIZEN METRICS ]
+------------------
+CONSISTENCY  [████████░░]
+VOLUME       [██████████]
+INTENSITY    [██████░░░░]
+</pre>
+    </td>
+  </tr>
+</table>
 
 ---
 
