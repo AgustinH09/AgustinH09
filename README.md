@@ -17,16 +17,14 @@
 }
 ```
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="70%" align="center" valign="middle">
+<!-- DASHBOARD_START -->
 <pre>
                ))))))))))))
-                       ))))))))))))))
-
-                                      ^^^^^
-  ))))))))))))                       ;"/"\";     ))))))))
-    ))))))))))))))))))              / /   ; \          )))))))))))
+                       ))))))))))))))                                   [ KAIZEN METRICS ]
+                                                                        ------------------
+                                      ^^^^^                             CONSISTENCY  [████████░░] 123d Streak
+  ))))))))))))                       ;"/"\";        ))))))))            VOLUME       [██████████] 9876+ Total
+    ))))))))))))))))))              / /   ; \          )))))))))))      INTENSITY    [██████░░░░] TS/Rails
                                    ; /\   \" :       )))))))))
                                   / ; ; " ;  \\
         )))))))))))))))))))))))  ;  / \   \  ; \
@@ -39,23 +37,11 @@
                        -ii                              `--
                      /iiiii                                 \
                   ,-iiii                                     ` `-
-             __ /iiiiiiiiiii                [Mt.Fuji on fine day]   
-     ______ 'iiiiiiiiiiiiiiiiiii
-</pre>
-    </td>
-    <td width="30%" align="left" valign="middle">
-<pre>
-[ KAIZEN METRICS ]
-------------------
-CONSISTENCY  [████████░░]
-VOLUME       [██████████]
-INTENSITY    [██████░░░░]
-</pre>
-    </td>
-  </tr>
-</table>
+             __ /iiiiiiiiiii                [Mt.Fuji on fine day]
+     ______ 'iiiiiiiiiiiiiiiiiii</pre>
+<!-- DASHBOARD_END -->
 
 ---
 
-`道 [michi] — The Path of Intentional Creation.`
-`匠 [takumi] — Master Craftsmanship.`
+`道` +
+`匠`
