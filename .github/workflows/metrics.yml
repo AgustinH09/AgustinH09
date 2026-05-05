@@ -2,14 +2,20 @@ name: Metrics
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push:
+    branches: ["master", "main"]
+    paths:
+      - ".github/workflows/metrics.yml"
+      - "scripts/update_readme.py"
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate metrics.json
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: AgustinH09
@@ -18,3 +24,30 @@ jobs:
           config_timezone: America/Chicago
           filename: metrics.json
           config_output: json
+
+      - name: Checkout repository (after metrics commit)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      - name: Pull latest metrics.json from main
+        run: git pull --ff-only origin main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh README dashboard
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GH_USERNAME: AgustinH09
+        run: python scripts/update_readme.py
+
+      - name: Commit README changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh README dashboard [skip ci]"
+          file_pattern: README.md
