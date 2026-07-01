@@ -51,3 +51,8 @@ jobs:
         with:
           commit_message: "chore: refresh README dashboard [skip ci]"
           file_pattern: README.md
+          # Attribute the commit to the bot so it is not counted as a
+          # contribution for the profile owner.
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
