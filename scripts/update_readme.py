@@ -228,7 +228,6 @@ def update_dashboard(readme_path: str, streak: int, total: int) -> bool:
     dashboard_lines = [
         f"CONSISTENCY  [{generate_bar(streak_pct)}] {streak}d Streak",
         f"VOLUME       [{generate_bar(total_pct)}] {total}+ Total",
-        "INTENSITY    [██████░░░░] TS/Rails",
     ]
 
     pattern = (
